@@ -1,5 +1,5 @@
 PODS:
-  - EasyBluetooth (0.1.0)
+  - EasyBluetooth (0.1.1)
 
 DEPENDENCIES:
   - EasyBluetooth (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EasyBluetooth: b058fd66f453b81070b2221a4d3296bcb3d25d78
+  EasyBluetooth: d37d2f38eaa61ebdda416b20e2d73142e87279e6
 
 PODFILE CHECKSUM: 8a8950f178dbe67060db11501734f1d00d57431a
 
