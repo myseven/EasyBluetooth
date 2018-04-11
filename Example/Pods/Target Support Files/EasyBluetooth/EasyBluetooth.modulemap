@@ -1,6 +1,0 @@
-framework module EasyBluetooth {
-  umbrella header "EasyBluetooth-umbrella.h"
-
-  export *
-  module * { export * }
-}
