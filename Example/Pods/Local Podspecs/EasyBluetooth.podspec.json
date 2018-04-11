@@ -1,9 +1,9 @@
 {
   "name": "EasyBluetooth",
   "version": "0.1.0",
-  "summary": "A short description of EasyBluetooth.",
+  "summary": "EasyBluetooth",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/mysevenmi2013@gmail.com/EasyBluetooth",
+  "homepage": "https://github.com/myseven/EasyBluetooth",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "mysevenmi2013@gmail.com": "mysevenmi2013@gmail.com"
   },
   "source": {
-    "git": "https://github.com/mysevenmi2013@gmail.com/EasyBluetooth.git",
+    "git": "https://github.com/myseven/EasyBluetooth.git",
     "tag": "0.1.0"
   },
   "platforms": {
