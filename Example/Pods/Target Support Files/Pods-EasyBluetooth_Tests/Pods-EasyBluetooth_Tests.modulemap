@@ -1,0 +1,6 @@
+framework module Pods_EasyBluetooth_Tests {
+  umbrella header "Pods-EasyBluetooth_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
