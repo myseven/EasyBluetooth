@@ -1,0 +1,16 @@
+PODS:
+  - EasyBluetooth (0.1.0)
+
+DEPENDENCIES:
+  - EasyBluetooth (from `../`)
+
+EXTERNAL SOURCES:
+  EasyBluetooth:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasyBluetooth: d46644945d70e67f257c6c482a6aba8e7fdeca24
+
+PODFILE CHECKSUM: 8a8950f178dbe67060db11501734f1d00d57431a
+
+COCOAPODS: 1.2.1
